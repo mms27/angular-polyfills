@@ -1,0 +1,1 @@
+### This polyfill provides support of touched-untouched states for `ng-model` directive.
